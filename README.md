@@ -2,6 +2,9 @@
 
 ## ¡Hola! 🤓
 
+![standard (1)](https://user-images.githubusercontent.com/88689761/204424127-cef90931-46e7-424a-80b7-300fb0bed257.gif)
+
+
 - 🔭 I’m currently working at [Ecoxiimbal](https://www.facebook.com/ecoxiinbalconsultoria) as Frontend dev. 
 - 🌱 I’m currently learning rust, react and competitive programming.
 - 🏛 Computer Engineering student [IPN-ESCOM](https://www.escom.ipn.mx/) Mexico City.
