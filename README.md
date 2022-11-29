@@ -11,10 +11,10 @@
 
 - ⚡ Fun fact: I prefer functional programming rather than object-oriented programming. 🤭
 
+# Some programming language that I've used 🤓
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Costa-M&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jose-Costa-M)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
