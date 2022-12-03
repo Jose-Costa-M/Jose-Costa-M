@@ -2,7 +2,7 @@
 
 # About me 🤓
 
-- 👨‍💻  I’m currently working at [Ecoxiimbal](https://www.facebook.com/ecoxiinbalconsultoria) as Frontend dev. 
+- 👨‍💻  I’m currently working at [Ecoxiimbal](https://www.facebook.com/ecoxiinbalconsultoria) as Frontend dev (Part time). 
 - 🧠  I’m currently learning rust, react and competitive programming.
 - 🏛 Computer Engineering student [IPN-ESCOM](https://www.escom.ipn.mx/) Mexico City.
 - 🤔 I’m looking for help with Android Development and Design.
