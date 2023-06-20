@@ -15,9 +15,9 @@
 # Links
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/portfolio-792DE4.svg?&style=for-the-badge&logo=react&logoColor=white" height=35 target="_blank" ></a>
-<a href="https://www.linkedin.com/in/jos%C3%A9-miguel-mart%C3%ADnez-acosta-964804264/"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=35 target="_blank" ></a>
+<a href="[https://www.linkedin.com/in/jos%C3%A9-miguel-mart%C3%ADnez-acosta-964804264/](https://www.linkedin.com/in/jose-acosta2002/)"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=35 target="_blank" ></a>
 <a href="https://instagram.com/joseclaverox.h?igshid=ZDdkNTZiNTM="><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=35 target="_blank" ></a>
-<a href="https://drive.google.com/file/d/104McnJmZIVQm7N-sbOBkYM_MVNxHTLbg/view?usp=share_link"><img src="https://img.shields.io/badge/resume-F4B400.svg?&style=for-the-badge&logo=googledrive&logoColor=white" height=35 target="_blank" ></a>
+<a href="https://drive.google.com/file/d/12QpAuas55eGS-VNbJNPlCya72IwmQAlC/view?usp=drive_link"><img src="https://img.shields.io/badge/resume-F4B400.svg?&style=for-the-badge&logo=googledrive&logoColor=white" height=35 target="_blank" ></a>
 </p>
 
 
