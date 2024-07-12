@@ -2,7 +2,7 @@
 
 # About me 🤓
 
-- 🧠  I’m currently learning React Native, flutter and competitive programming.
+- 🧠  I’m currently learning React Native, flutter, cloud and competitive programming.
 - 🏛 Computer Engineering student [IPN-ESCOM](https://www.escom.ipn.mx/) Mexico City.
 - 🤔 I’m looking for help with Android Development and Design.
 - 💬 Ask me about maths and algorithms.
